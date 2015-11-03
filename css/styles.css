@@ -1,0 +1,38 @@
+/*  
+Color Pallette
+Primary Color: #402338 
+Secondary Color: #A65398
+Accent Color: #F2D0C4
+*/
+
+nav li {
+    display: inline-block;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #402338;
+    font-family: 'Ruthie', cursive;
+    font-size: 3em;
+    text-align: center;
+}
+
+h1 {
+    font-size: 5em;   
+}
+
+body {
+    background: url(../img/pixel_weave.png);  
+    font-family: 'Playball', cursive;
+    color: #A65398;
+}
+
+blockquote {
+    text-align: center;
+    font-size: 5em;
+}
+
+section img {
+    width: 50%;
+    align-items: center;
+}
